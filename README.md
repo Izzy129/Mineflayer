@@ -1,2 +1,2 @@
 # Mineflayer
-Basic minecraft bot using (Mineflayer)[https://github.com/PrismarineJS/mineflayer]
+Basic Minecraft bot using [Mineflayer](https://github.com/PrismarineJS/mineflayer)
